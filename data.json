@@ -1,0 +1,41 @@
+{
+    "chart_title": "Hypixel Stats Overview",
+    "data_points": [
+        {
+            "name": "Solo",
+            "Wins": 170,
+            "Kills": 7007,
+            "Final Kills": 914,
+            "Losses": 1139,
+            "Deaths": 2952,
+            "Final Deaths": 1082
+        },
+        {
+            "name": "Doubles",
+            "Wins": 603,
+            "Kills": 4305,
+            "Final Kills": 2411,
+            "Losses": 1273,
+            "Deaths": 6588,
+            "Final Deaths": 1325
+        },
+        {
+            "name": "3v3v3v3",
+            "Wins": 517,
+            "Kills": 1883,
+            "Final Kills": 947,
+            "Losses": 362,
+            "Deaths": 2700,
+            "Final Deaths": 399
+        },
+        {
+            "name": "4v4v4v4",
+            "Wins": 1320,
+            "Kills": 5145,
+            "Final Kills": 2670,
+            "Losses": 1088,
+            "Deaths": 7184,
+            "Final Deaths": 1138
+        }
+    ]
+}
